@@ -1,7 +1,9 @@
 body {
+    background-image: url ("mailbox.jpeg");
     background-color: cyan;
     color:white;
     font-family: sans-serif;
+
 }
 
 h1  {
